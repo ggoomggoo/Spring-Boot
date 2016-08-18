@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: jwp-fc
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.t1t1
+Build-Jdk: 1.7.0_80
+Built-By: U35S-CHH
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/jwp-fc/
+
